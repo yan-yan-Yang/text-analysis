@@ -11,4 +11,4 @@
 ## 第八周 词向量
 将语义映射为实数向量，从而得以让计算机来处理文本，例如计算相似性，详情见代码。
 代码包含：词向量模型的理解和样例代码；根据课程样例，我在豆瓣电影评论数据集中使用了词向量模型并计算了词向量间的相似性。
-[工具gensim]https://radimrehurek.com/gensim/models/word2vec.html
+[工具gensim](https://radimrehurek.com/gensim/models/word2vec.html)
